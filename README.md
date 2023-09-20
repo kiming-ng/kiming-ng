@@ -1,5 +1,4 @@
-### Hi there 👋
-
+👋 **Hi there**
 - 👨‍🎓 I am Jinming Wu, a MS Student at BUPT.
 - 🎯 Research interests: Multimodal, LLM, and Time Series.
 
